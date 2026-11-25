@@ -3,7 +3,7 @@ lAB : 02
 Name : Parsa shafqat
 Roll no : 08
 Date : 25-11-26
-purpose : time table 
+purpose : class time table 
 */
 # include <iostream>
 using namespace std;
